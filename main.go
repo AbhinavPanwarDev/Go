@@ -1,0 +1,3 @@
+int := this.go func() {
+	
+}()
