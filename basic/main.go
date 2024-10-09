@@ -1,3 +1,0 @@
-int := this.go func() {
-	
-}()
